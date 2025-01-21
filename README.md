@@ -15,3 +15,4 @@ Este proyecto implementa un sistema de reconocimiento de rostros. Incluye:
 2. Ejecutar el script desde la terminal:
    ```bash
    python3 index.py
+   ```
